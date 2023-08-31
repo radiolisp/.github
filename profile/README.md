@@ -11,4 +11,6 @@
 
 # RADIOLISP 
 
+Some interesting things in Clojure.
+
 https://t.me/radiolisp 
